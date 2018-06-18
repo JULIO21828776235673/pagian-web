@@ -1,0 +1,48 @@
+<html>
+<head>
+<title>COMO HACER UNA PAGINA WEB CON HTML</title>
+<body background="imagen/3.jpg">
+<p><font color="red">¿QUE ES HTML?</font>
+<font color="white">HTML, que significa Lenguaje de Marcado para Hipertextos (HyperText Markup Language) es el elemento de construcción más básico de una página web y se usa para crear y representar visualmente una página web. Determina el contenido de la página web, pero no su funcionalidad. Otras tecnologías distintas de HTML son usadas generalmente para describir la apariencia/presentación de una página web (CSS) o su funcionalidad (JavaScript).</font>
+<center><b><font color="red">PASOS PARA REALIZAR UNA PAGINA WEB EN HTML</font></center></b>
+<center><img src="html.jpg" width="400" heigth="400"></center>
+<p><font color="coral">PASO 1</font>
+<p><font color="pink">el primer paso es entar a bloc de notas y abrir una etiqueta.  La primera etiqueta de una pagina web suele ser “html”. Esta etiqueta debe de ir en la parte superior del archivo de Bloc de notas.</font> 
+<center><img src="prd.jpg" width="400" heigth="400"></center>
+<p><font color="coral">PASO NUMERO 2</font>
+<p><font color="pink">el segundo paso es para asentar la cabeza osea "head" o "title", La siguiente etiqueta es “head”  La siguiente etiqueta, “title”, le indica al buscador qué poner en la parte superior de la ventana y la etiqueta opcional “meta tags” le indica a los buscadores como Google </font>
+<center><img src="producto.jpg" width="400" heigth="400"></center>
+<p><font color="coral">PASO NUMERO 3</font>
+<p><font color="pink">el tercer paso es para 
+En la línea siguiente, después de la etiqueta “head”, pon la etiqueta “title”. Después de la etiqueta “title”, escribe lo que quieras poner en la parte superior de tu página web, normalmente se escribe el título de la página web. Ahora cierra la etiqueta escribiendo “/title”.
+<center><img src="producto2.jpg" width="400" heigth="400"></center>
+<p><font color="coral">PASO NUMERO 4</font>
+<p><font color="pink">En la línea siguiente, después de la etiqueta “head”, pon la etiqueta “title”. Después de la etiqueta “title”, escribe lo que quieras poner en la parte superior de tu página web, normalmente se escribe el título de la página web. Ahora cierra la etiqueta escribiendo “/title”.</font>
+<center><img src="producto3.jpg" width="400" heigth="400"></cente>
+<p><font color="coral">PASO NUMERO 5</font>
+<p><font color="pink">el quinto Crea un encabezado de página. El encabezado de página es el título que aparecerá en la parte superior de la página web. Para crear uno, escribe h1, añade el encabezado y luego cierra la etiqueta con /h1. Por ejemplo: 
+<center><img src="imag055.jpg" width="400" heigth="400"></center>
+<p><font color="coral">PASO NUMERO 6</font>
+<p><font color="pink">
+Añade encabezados adicionales a medida que prosigas. Hay seis encabezados distintos que puedes crear usando las etiquetas h1 h1 y h6 h6. Por ejemplo, para crear encabezados de tres tamaños distintos en sucesión, puedes escribir lo siguiente: 
+<p><font color="coral">PASO NUMERO 7</font>
+<p><font color="pink">
+Crea un párrafo. Las etiquetas de párrafo se usan para crear bloques distintos de texto. Para colocar texto en un párrafo, escribe p y escribe el texto, luego escribe p para cerrar la etiqueta:
+<p><font color="coral">PASO NUMERO 8</font>
+<p><font color="pink">
+Cambia el color del texto. Puedes cambiar el color de cualquier texto enmarcando el texto con las etiquetas <font color="color"></font>, asegurándote de escribir el color que prefieras en la sección "color" (debes incluir las comillas). Por ejemplo, para hacer que el texto de un párrafo se vuelva azul
+<p><font color="coral">PASO NUMERO 9</font>
+<p><font color="pink">
+Da formato al texto con negrita, cursiva o subrayado. El texto en negrita, en cursiva o subrayado se puede crear con las etiquetas b b, i i y u u respectivamente.
+<p><font color="coral">PASO NUMERO 10</font>
+<p><font color="pink">
+Añade una imagen a la página. Puedes usar las etiquetas img src="URL" img para integrar una imagen existente en la página web. Por ejemplo, si la dirección de la imagen es "www.mypicture.com/lake", puedes escribir lo siguiente: 
+<p><font color="coral">PASO NUMERO 11</font>
+<p><font color="pink">Haz un enlace a otra página. Puedes añadir un enlace a otra página web usando las etiquetas a href="link"link text a, en donde link es la dirección de la página web a la que quieres hacer un enlace y link text es el texto que actuará como enlace. 
+<p><font color="coral">PASO NUMERO 12</font>
+<p><font color="pink"> 
+Cierra las etiquetas de la página web. Como con cualquier etiqueta de HTML, tendrás que cerrar las etiquetas body y html que están en la parte superior del documento escribiendo lo siguiente en la parte inferior del documen
+<p><font color="coral">PASO NUMERO 13</font>
+<p><font color="pink">
+Revisa la página web. Puedes añadir más párrafos, más encabezados y más texto en cualquier parte de la página entre las etiquetas body body, si es necesario.
+
